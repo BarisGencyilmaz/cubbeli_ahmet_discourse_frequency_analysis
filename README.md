@@ -2,7 +2,7 @@
 Söylem üzerine bir veri gazeteciliği çalışması/girişimi
 
 İsmailağa Cemaatindeki postnişin kavgasını daha detaylı incelemek için başlattığım söylem analizi serisinin ilk denemesi.
-Bu çalışmayla Cübbeli Ahmet diye bilinen Ahmet Mahmut Ünlü'nün kendisine ait YouTube kanalında paylaştığı "İsmailağa’nın Hakkımdaki İftiralarına Müdellel Cevaplarım (Gündem Özel) 27 Mart 2024" isimli
+Bu çalışmayla Cübbeli Ahmet diye bilinen Ahmet Mahmut Ünlü'nün kendisine ait YouTube kanalında paylaştığı "Seçim, Fetö, İsmailağa (Gündem Özel) 3 Nisan 2024" isimli
 videoda gerçekleştirdiği konuşmayı sadeleştirerek frekans analizine tabî tuttum. Ardından wordcloud kütüphanesinin görüntü işleme özelliğini kullanarak Cübbeli Ahmet'in resmini maskeleyerek en çok tekrar edilen
 sözcükleri yerleştirdim. Bu çalışmanın henüz başında olduğunu, verilerin çok daha iyi işlenebileceğinin farkındayım. O yüzden bir kod geliştirici ya da veri analisti olmadığımı belirterek çalışmanın farklı şekillerde geliştirileceğini şerhini düşüyorum.
 
